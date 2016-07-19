@@ -7,7 +7,7 @@ Caso você queira receber as últimas novidades no universo do desenvlvimento Fr
 
 Tem dúvidas sobre o código? Entre na nossa [**Comunidade Frontend** no Facebook](http://alga.works/comunidadefrontend) e tire suas dúvidas :)
 
-
+[![Lista VIP Frontend](http://blog.algaworks.com/wp-content/uploads/2016/06/cta-lista-vip-front-end.png)](http://cafe.algaworks.com/lista-vip-frontend/)
 
 ## Licença: GNU 3.0
 Estes arquivos fazem parte de um software livre; você pode redistribuí-los e/ou modificá-los dentro dos termos da Licença Pública Geral GNU como publicada pela Fundação do Software Livre (FSF); na versão 3 da Licença, ou (à sua escolha) qualquer versão mais nova.
