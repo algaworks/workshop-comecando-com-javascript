@@ -3,7 +3,7 @@
 
 Estes arquivos fazem parte do **Workshop de Javascript** da [**AlgaWorks**](http://www.algaworks.com). Caso você ainda não conheça a AlgaWorks ou o AngularJS, [acesse nosso Blog](http://blog.algaworks.com) e saiba mais!
 
-Caso você queira receber as últimas novidades no universo do desenvlvimento Frontend, [se inscreva na nossa **Lista VIP**](http://cafe.algaworks.com/lista-vip-frontend/)! 
+Caso você queira receber as últimas novidades no universo do desenvolvimento Frontend, [se inscreva na nossa **Lista VIP**](http://cafe.algaworks.com/lista-vip-frontend/)! 
 
 Tem dúvidas sobre o código? Entre na nossa [**Comunidade Frontend** no Facebook](http://alga.works/comunidadefrontend) e tire suas dúvidas :)
 
